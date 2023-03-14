@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjectInventory</string>
+    <string name="toast_login">Username dan Password tidak boleh kosong</string>
+    <string name="password_and_username_wrong">Password atau Username salah</string>
+    <string name="blank_toast_add_product">
+        Kode produk,Nama produk dan Harga produk tidak boleh kosong
+    </string>
+    <string name="yes_delete_data">Ya</string>
+    <string name="no_delete_data">Tidak</string>
+    <string name="success_delete_data">Data berhasil dihapus</string>
+    <string name="not_yet_delete_data">Datat tidak jadi dihapus</string>
+    <string name="title_delete_data">Hapus Data %s</string>
+    <string name="message_delete_data">Apakah anda ingin menghapus data %s ?</string>
+    <string name="detail_product">Detail Produk</string>
+    <string name="home_product">Home</string>
+    <string name="title_splash_screen">welcome to app inventory</string>
+    <string name="add_product">Tambah Produk</string>
+    <string name="profile">Profile</string>
+    <string name="toast_code_product_same">
+        Kode product yang anda masukkan sudah ada di database
+    </string>
+    <string name="menu_home">Menu Utama</string>
+    <string name="product_in">Barang masuk</string>
+    <string name="product_out">Barang keluar</string>
+    <string name="all_product">Semua barang</string>
+</resources>
